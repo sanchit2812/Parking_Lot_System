@@ -71,7 +71,7 @@ $ cd Downloads/Parking_Lot_Sytem-main
 
 ##### Step 3 − Now enter the following command to compile the source file using g++.
 
-$ g++ -o [Name that you want to give] source.cpp
+$ g++ -o [Name that you want to give] TakeHomeActivity.cpp.cpp
 
 In place of [Name that you want to give] replace it by any name like myprogram, etc.
 
