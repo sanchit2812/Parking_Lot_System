@@ -79,6 +79,9 @@ In place of [Name that you want to give] replace it by any name like myprogram, 
 
 ##### Step 4 − Run it! Now you can run the program using −
 
+$ ./[Name that you had given]
+
+So, as per the above example the command will be: 
 $ ./myprogram
 
 
