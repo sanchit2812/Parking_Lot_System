@@ -83,3 +83,39 @@ $ ./myprogram
 
 
 ![](execution.JPG)
+
+
+
+## TestCase:
+
+#### Input File contains the input. In order to test the program, put your test case in the input file
+
+Here is the formal for input: 
+
+```
+Create_parking_lot 6
+Park KA-01-HH-1234 driver_age 21
+Park PB-01-HH-1234 driver_age 21
+Slot_numbers_for_driver_of_age 21
+Park PB-01-TG-2341 driver_age 40
+Slot_number_for_car_with_number PB-01-HH-1234
+Leave 2
+Park HR-29-TG-3098 driver_age 39
+Vehicle_registration_number_for_driver_of_age 18
+```
+
+#### Output File contains the output. Your output will be stored in the output file. 
+
+Here is the format of output file:
+
+```Creating Parking of 6 slots
+Car with vehicle registration number KA-01-HH-1234 with having driver's age of : 21 has been parked at slot number 1
+Car with vehicle registration number PB-01-HH-1234 with having driver's age of : 21 has been parked at slot number 2
+1.) 1   2.) 2   
+Car with vehicle registration number PB-01-TG-2341 with having driver's age of : 40 has been parked at slot number 3
+2
+Slot Number : 2 vacated, the car with vehicle registration number :PB-01-HH-1234 left the space.
+Car with vehicle registration number HR-29-TG-3098 with having driver's age of : 39 has been parked at slot number 2
+NO Car is present
+
+```
