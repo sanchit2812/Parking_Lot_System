@@ -65,6 +65,7 @@ For example, if it is in C:/Users/Dell/Documents, enter your command line −
 
 $ cd 'C:/Users/Dell/Documents'
 
+![](Path.JPG)
 
 
 
@@ -74,6 +75,8 @@ $ g++ -o <name-you-want-to-give> source.cpp
 
 In place of <name-you-want-to-give> replace it by any name like myprogram, etc.
 
+![](compile.JPG)
 ##### Step 4 − Run it! Now you can run the program using −
 
 $ ./myprogram
+![](execution.JPG)
