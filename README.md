@@ -60,13 +60,13 @@ Open a new terminal window and type the following command and press enter:
 ##### Step 1: Open a new terminal window.
 
 ##### Step 2 − Change the directory to the directory in which you have `TakeHomeActivity.cpp` file. 
-For example, if it is in C:/Users/Dell/Documents, enter your command line −
+
+For example, if it is in Downloads/Parking_Lot_Sytem-main, enter your command line −
 
 
-$ cd 'C:/Users/Dell/Documents'
+$ cd Downloads/Parking_Lot_Sytem-main
 
 ![](Path.JPG)
-
 
 
 ##### Step 3 − Now enter the following command to compile the source file using g++.
@@ -76,7 +76,10 @@ $ g++ -o <name-you-want-to-give> source.cpp
 In place of <name-you-want-to-give> replace it by any name like myprogram, etc.
 
 ![](compile.JPG)
+
 ##### Step 4 − Run it! Now you can run the program using −
 
 $ ./myprogram
+
+
 ![](execution.JPG)
