@@ -62,7 +62,10 @@ Open a new terminal window and type the following command and press enter:
 ##### Step 2 − Change the directory to the directory in which you have `TakeHomeActivity.cpp` file. 
 For example, if it is in C:/Users/Dell/Documents, enter your command line −
 
+
 $ cd 'C:/Users/Dell/Documents'
+
+
 
 
 ##### Step 3 − Now enter the following command to compile the source file using g++.
