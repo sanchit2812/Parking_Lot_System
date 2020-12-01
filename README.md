@@ -2,7 +2,7 @@
 
 # Dependencies
 
-C++ that's it.
+C++ .
 
 
 # Description
