@@ -73,7 +73,7 @@ $ cd Downloads/Parking_Lot_Sytem-main
 
 $ g++ -o [Name that you want to give] source.cpp
 
-In place of <name-you-want-to-give> replace it by any name like myprogram, etc.
+In place of [Name that you want to give] replace it by any name like myprogram, etc.
 
 ![](compile.JPG)
 
