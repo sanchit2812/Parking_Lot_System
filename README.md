@@ -40,7 +40,22 @@ Step 3: Install Xcode
 Step 4: Launch Xcode
 
 
-#### Steps to run the program on Mac:
+### Ubuntu
+
+Step to install C++ environment:
+
+Open a new terminal window and type the following command and press enter:
+
+```sudo apt-get install g++```
+
+
+
+
+
+
+### Steps to run the program on Mac:
+
+
 
 ##### Step 1: Open a new terminal window.
 
@@ -59,24 +74,3 @@ In place of <name-you-want-to-give> replace it by any name like myprogram, etc.
 ##### Step 4 − Run it! Now you can run the program using −
 
 $ ./myprogram
-
-
-### Ubuntu
-Here are the steps to install C++ Compiler
-
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
