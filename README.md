@@ -2,7 +2,7 @@
 
 # Dependencies
 
-C++ .
+C++ that's it.
 
 
 # Description
@@ -28,7 +28,38 @@ We interact with the system via a file-based input system, i.e. it should accept
 ## Setup Instructions
 
 ### Mac
-Here are the steps to install C++ Compiler.
+
+Here are the steps to setup c++ environment:
+
+Step 1: Open the App Store
+
+Step 2: Search for Xcode
+
+Step 3: Install Xcode
+
+Step 4: Launch Xcode
+
+
+#### Steps to run the program on Mac:
+
+##### Step 1: Open a new terminal window.
+
+##### Step 2 − Change the directory to the directory in which you have `TakeHomeActivity.cpp` file. 
+For example, if it is in C:/Users/Dell/Documents, enter your command line −
+
+$ cd 'C:/Users/Dell/Documents'
+
+
+##### Step 3 − Now enter the following command to compile the source file using g++.
+
+$ g++ -o <name-you-want-to-give> source.cpp
+
+In place of <name-you-want-to-give> replace it by any name like myprogram, etc.
+
+##### Step 4 − Run it! Now you can run the program using −
+
+$ ./myprogram
+
 
 ### Ubuntu
 Here are the steps to install C++ Compiler
@@ -49,23 +80,3 @@ foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
-
-
-
-
-
-Once you've got your compiler and source program ready, it is very easy to compile and run a C++ program. Assuming that you've installed GCC compiler, and you have a source.cpp file that you want to compile, follow the following instructions to compile and run it.
-
-Step 1 − Open a new terminal window or cmd if you are on windows.
-
-Step 2 − Change the directory to the directory in which you have your source.cpp file. For example, if it is in C:/Users/Dell/Documents, enter your command line −
-
-$ cd 'C:/Users/Dell/Documents'
-Step 3 − Now enter the following command to compile the source file using g++.
-
-$ g++ -o <name-you-want-to-give> source.cpp
-In place of <name-you-want-to-give> replace it by any name like myprogram, etc.
-
-Step 4 − Run it! Now you can run the program using −
-
-$ ./myprogram
